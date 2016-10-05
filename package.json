@@ -1,5 +1,5 @@
 {
-  "name": "femto-css",
+  "name": "femtocss",
   "version": "1.0.0",
   "description": "The smallest css framrwork you will ever meet",
   "main": "index.js",
@@ -13,5 +13,8 @@
     "css3"
   ],
   "author": "Jorge Rivera <jorgeriv@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sass": "^2.3.2"
+  }
 }
