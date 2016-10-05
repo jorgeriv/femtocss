@@ -1,6 +1,6 @@
 {
   "name": "femtocss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The smallest css framrwork you will ever meet",
   "main": "index.js",
   "scripts": {
