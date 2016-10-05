@@ -1,0 +1,17 @@
+{
+  "name": "femto-css",
+  "version": "1.0.0",
+  "description": "The smallest css framrwork you will ever meet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "scss",
+    "css3"
+  ],
+  "author": "Jorge Rivera <jorgeriv@gmail.com>",
+  "license": "ISC"
+}
